@@ -9,24 +9,13 @@
 < About Me />
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-javapublic class LokeshKumar {
-
-    String name        = "Lokesh Kumar A";
-    String location    = "Madurai, Tamil Nadu, India";
-    String degree      = "B.E. Computer Science Engineering (2023–2027)";
-    String[] stack     = { "Java", "Spring Boot", "MySQL", "REST APIs",
-                           "HTML", "CSS", "C++" };
-
-    String[] learning  = { "Advanced Spring Boot", "Microservices",
-                           "Docker", "React.js", "System Design" };
-
-    String funFact     = "I once tracked vehicle speed with ultrasonic sensors & Arduino!";
-
-    String motto() {
-        return "Build things that matter. Break things that don't work.";
-    }
-}
-
+🎓 Degree: B.E. Computer Science Engineering (2023–2027)
+🏫 Institution: Sethu Institute of Technology, Madurai
+📍 Location: Madurai, Tamil Nadu, India
+💻 Core Stack: Java, Spring Boot, MySQL, REST APIs, HTML, CSS, C++
+📚 Currently Learning: Advanced Spring Boot, Microservices, Docker, React.js, System Design
+⚡ Fun Fact: I once tracked vehicle speed with ultrasonic sensors & Arduino!
+🎯 Motto: Build things that matter. Break things that don't work
 <br clear="right"/>
 
 🛠️ Tech Stack
