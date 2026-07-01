@@ -1,8 +1,8 @@
 <a href="https://github.com/Lokesh19105">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lokesh+Kumar+A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java+Full+Stack+Developer+%7C+IoT+Enthusiast+%7C+Building+end-to-end+solutions&descAlignY=62&descSize=16" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lokesh+Kumar+A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Java+AI+Full+Stack+Developer+%7C+IoT+Enthusiast+%7C+Building+end-to-end+solutions&descAlignY=62&descSize=16" />
 </a>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Lokesh+Kumar+%F0%9F%91%8B;Java+Full+Stack+Developer+%7C+Spring+Boot;IoT+%2B+Embedded+Systems+Builder;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Lokesh+Kumar+%F0%9F%91%8B;AI+Java+Full+Stack+Developer+%7C+Spring+Boot;IoT+%2B+Embedded+Systems+Builder;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 <br/>
 
