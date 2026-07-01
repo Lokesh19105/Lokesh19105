@@ -9,13 +9,15 @@
 < About Me />
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-🎓 Degree: B.E. Computer Science Engineering (2023–2027)
-🏫 Institution: Sethu Institute of Technology, Madurai
-📍 Location: Madurai, Tamil Nadu, India
-💻 Core Stack: Java, Spring Boot, MySQL, REST APIs, HTML, CSS, C++
-📚 Currently Learning: Advanced Spring Boot, Microservices, Docker, React.js, System Design
-⚡ Fun Fact: I once tracked vehicle speed with ultrasonic sensors & Arduino!
-🎯 Motto: Build things that matter. Break things that don't work
+<ul>
+<li>🎓 <b>Degree:</b> B.E. Computer Science Engineering (2023–2027)</li>
+<li>🏫 <b>Institution:</b> Sethu Institute of Technology, Madurai</li>
+<li>📍 <b>Location:</b> Madurai, Tamil Nadu, India</li>
+<li>💻 <b>Core Stack:</b> Java, Spring Boot, MySQL, REST APIs, HTML, CSS, C++</li>
+<li>📚 <b>Currently Learning:</b> Advanced Spring Boot, Microservices, Docker, React.js, System Design</li>
+<li>⚡ <b>Fun Fact:</b> I once tracked vehicle speed with ultrasonic sensors & Arduino!</li>
+<li>🎯 <b>Motto:</b> <i>Build things that matter. Break things that don't work.</i></li>
+</ul>
 <br clear="right"/>
 
 🛠️ Tech Stack
